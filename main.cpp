@@ -2,9 +2,9 @@
 
 using namespace std;
 
-//double &f();
+//double &f(); esto no vale
 
-//double valor=10.0;
+//double valor=10.0; // nada
 
 int main() {
 	int i=12;
