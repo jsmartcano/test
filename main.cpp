@@ -13,6 +13,8 @@ int main() {
 	px=&i;
 
 	cout << *px;
+  
+  // que sale?
 
 }
 
